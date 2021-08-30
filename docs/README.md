@@ -87,3 +87,7 @@ module.exports = {
   target: ['web', 'es5'],
 };
 ```
+
+## カルーセル参考
+
+[URL](https://coliss.com/articles/build-websites/operation/css/css-only-carousel.html)
